@@ -6,4 +6,7 @@
     echo "Home";
     echo "Product"
     echo "Mahanakorn"
+    echo "Mahanakorn"
+    echo "Mahanakorn"
+    echo "Mahanakorn"
 ?>
